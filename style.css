@@ -1459,7 +1459,7 @@ Animation Css
 }
 
 .bg_image--2 {
-    background-image: url("img/bg/bg-image-2.jpg");
+    background-image: url('img/revoulation/slider-design-studio-slide-01-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -16392,7 +16392,7 @@ Contact Form Style 01
 }
 
 .contact-form.contact-form--2 input {
-    text-align: center;
+    text-align: left;
 }
 
 .contact-form.contact-form--3 {
@@ -31645,7 +31645,7 @@ Main Components
 
 @media only screen and (min-width: 1050px) {
     .vertical-geadient-home::before {
-        /* never visible - this is used in jQuery to check the current MQ */
+        /* never visible - this is used in j© to check the current MQ */
         content: 'desktop';
     }
 }
@@ -32178,8 +32178,8 @@ header.br_header.header-default.vertical-slide-portfolio {
 }
 
 .header-default.haeder-fixed-width .container-fluid {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 95px;
+    padding-right: 95px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
